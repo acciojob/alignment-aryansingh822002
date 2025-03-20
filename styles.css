@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 table , td{
 	border:solid black 1px;
+	border-spacing: 1px;
+	padding: 1px;
 }
 
 .green{
